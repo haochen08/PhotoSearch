@@ -28,7 +28,7 @@
         <!--View Controller-->
         <scene sceneID="rji-tW-hZg">
             <objects>
-                <viewController id="haG-ZE-1XW" customClass="ViewController" customModule="PhotoBrowser" sceneMemberID="viewController">
+                <viewController id="haG-ZE-1XW" customClass="ViewController" customModule="PhotoSearch" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="vh2-ov-FJY"/>
                         <viewControllerLayoutGuide type="bottom" id="twD-6t-vAE"/>
@@ -47,7 +47,7 @@
                                     <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                 </collectionViewFlowLayout>
                                 <cells>
-                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="PhotoCell" id="C3a-XU-FOK" customClass="PhotoCell" customModule="PhotoBrowser" customModuleProvider="target">
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="PhotoCell" id="C3a-XU-FOK" customClass="PhotoCell" customModule="PhotoSearch">
                                         <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">

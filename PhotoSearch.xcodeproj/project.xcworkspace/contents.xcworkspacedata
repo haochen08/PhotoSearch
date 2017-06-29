@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PhotoBrowser.xcodeproj">
+      location = "self:/Users/chenhao/workspace/hackday/PhotoBrowser/PhotoSearch.xcodeproj">
    </FileRef>
 </Workspace>
